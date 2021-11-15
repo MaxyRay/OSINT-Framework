@@ -37,7 +37,7 @@
       {
         "name": "Thats Them",
         "type": "url",
-        "url": "https://thatsthem.com/"
+        "url" : "https://thatsthem.com/"
       },
       {
         "name": "Check Usernames",
@@ -83,6 +83,11 @@
         "name": "Keybase",
         "type": "url",
         "url": "https://keybase.io/"
+        
+        
+        "name": " keybase",
+        "type": " url",
+        "url": " https://keybase.io/"
       },
       {
         "name": "MIT PGP Key Server",
